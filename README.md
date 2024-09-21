@@ -27,9 +27,8 @@ The Big Game Census Dashboard is a powerful interactive visualization platform d
 # Dashboard
 <br>
 <a href="https://github.com/Jai-sanjai/Big-Game-Census-Dashboard/blob/main/Task_2_screenshot.png"> Dashboard</a> <br>
-![Task_2_screenshot](https://github.com/user-attachments/assets/d33b87c7-8931-4951-86e3-f5fc11857570)
 
-
+<img src="https://github.com/user-attachments/assets/d33b87c7-8931-4951-86e3-f5fc11857570">
 
 
 
