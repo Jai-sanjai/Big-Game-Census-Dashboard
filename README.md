@@ -24,8 +24,10 @@ The Big Game Census Dashboard is a powerful interactive visualization platform d
 </ul>
 </li>
 </ol> <hr>
-
 # Dashboard
+<br>
+<a href=""> Dashboard</a> <br>
+
 
 
 
